@@ -1,0 +1,12 @@
+1 Abdulkadir ELP 52 Engineering
+2 Melih uLuhan 16 Enginnering
+3 Murat Yıldırm 21 Engineering
+4 Betül Karaman 30 Engineering
+5 Ahmet Eker 98 Law
+6 Ertan Yıldız 54 Medicine
+7 Nisanur Mühürdaroğlu 4 Engineering
+8 Evren Aykaç 1 Engineering
+9 İlknur Efe 44 Medicine
+10 Feyzan Öztürk 37 Literature
+11 Ece Çetin 73 Physic
+12 Beyza Erdem 65 Chemistry
