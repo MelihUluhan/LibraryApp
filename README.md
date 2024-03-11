@@ -1,4 +1,5 @@
-## Library Management Application
+<h2 align="center">Library Management Application</h2>
+
 This application for Library Management has been developed using various OOP capabilities. Library Management Application has various features required in libraries such as new book, new user, member and book information, borrowing book, returning book and searching book.<br/>
 <br/><img src="https://github.com/MelihUluhan/LibraryApp/blob/main/ImagesAboutApp/UML.png" alt="UML" ><br/>
 <br/>New books and students can be added by filling in the necessary information.<br/>
